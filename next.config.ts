@@ -10,8 +10,6 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  basePath: isProd ? '/portfolio-website' : '',
-  assetPrefix: isProd ? '/portfolio-website/' : '',
   images: {
     unoptimized: true, // required for GitHub Pages
     remotePatterns: [
