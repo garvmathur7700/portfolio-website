@@ -25,7 +25,7 @@ export const projects = [
     description:
       "Created a secure REST API for task management with JWT authentication, modular MVC architecture, and MongoDB integration.",
     stack: ["Java", "Spring Boot", "JWT", "MongoDB", "MVC"],
-    github: "#",
+    github: "https://github.com/garvmathur7700/task-manager-api",
     live: "#",
   },
   {
